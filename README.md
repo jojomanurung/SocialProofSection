@@ -57,7 +57,7 @@ The designs were created to the following widths:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://fontawesome.com/v4.7.0/) - For icons
+- [Font Awesome](https://fontawesome.com/v4.7.0/) - For icons
 
 ### Deploy to
 
