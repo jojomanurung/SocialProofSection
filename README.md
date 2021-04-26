@@ -28,6 +28,11 @@ Please give some critique and advice to my code through Frontend Mentor. Thank y
 
 ### Screenshot
 
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
 #### Desktop
 
 ![](./screenshots/desktop-design.PNG)
