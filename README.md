@@ -40,8 +40,8 @@ Please give some critique and advice to my code through Frontend Mentor. Thank y
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/jojomanurung/SocialProofSection)
+- Live Site URL: [SocialProofSection-FEM](https://socialproofsection-fem.netlify.app/)
 
 ## My process
 
