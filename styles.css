@@ -134,11 +134,11 @@ figure > img {
   body {
     background-image: url(./images/bg-pattern-top-desktop.svg),
       url(./images/bg-pattern-bottom-desktop.svg);
-    background-position: top -20px left -20px, bottom right 20px;
+    background-position: top left 15px, bottom right;
   }
 
   .hero {
-    padding: 100px 150px 0 150px;
+    padding: 130px 165px 0 165px;
   }
 
   .container {
@@ -161,6 +161,10 @@ figure > img {
     text-align: left;
   }
 
+  .right-helper {
+    padding-top: 20px;
+  }
+
   .review {
     margin: 0 0 17px 0;
     display: inline-flex;
@@ -168,15 +172,15 @@ figure > img {
   }
 
   .review-1 {
-    margin-left: 110px;
+    margin-left: 100px;
   }
 
   .review-2 {
-    margin-left: 150px;
+    margin-left: 140px;
   }
 
   .review-3 {
-    margin-left: 190px;
+    margin-left: 180px;
   }
 
   .stars {
@@ -186,26 +190,26 @@ figure > img {
   }
 
   .content {
-    padding: 0 0 90px 0;
+    padding: 0 0 83px 0;
   }
 
   .buyer-helper {
-    width: 360px;
+    width: 350px;
   }
 
   .comment {
-    font-size: 0.89em;
+    font-size: 0.86em;
   }
 
   .buyer-1 {
-    margin-top: 30px;
+    margin-top: 40px;
   }
 
   .buyer-2 {
-    margin-top: 50px;
+    margin-top: 60px;
   }
 
   .buyer-3 {
-    margin-top: 70px;
+    margin-top: 80px;
   }
 }
